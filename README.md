@@ -7,10 +7,15 @@ Using Template for the Front.
 - Register + Login
 - Messages
 
-## ToDo for first commit:
+## ToDo:
 
 - Typing
 - Save messages after refresh (?(MySQL))
+- Mute
+- Voice
+- Warn
+- Bad Words List
+- Add/Remove Admins
 
 ## Technology
 
