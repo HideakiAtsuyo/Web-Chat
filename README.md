@@ -2,13 +2,20 @@
 
 Using Template for the Front.
 
-## ToDo for first commit:
+## Available
 
 - Register + Login
-- Typing
 - Messages
+
+## ToDo for first commit:
+
+- Typing
+- Save messages after refresh (?(MySQL))
 
 ## Technology
 
 - Node.JS
 - WebSocket
+
+
+![](https://i.imgur.com/1kKdIX0.gif)
